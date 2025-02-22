@@ -1,0 +1,28 @@
+{
+  "id": "czechtranslationwallheight",
+  "title": "CzechTranslationWallHeight",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "Český překlad modulu Wall Height.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "email": "michmildub@seznam.cz",
+      "discord": "Lethrendis",
+      "flags": {}
+    }
+  ],
+  "languages": [
+      {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],
+  "url": "https://github.com/Lethrendis/CzechTranslationWallHeight",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationWallHeight/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationWallHeight/archive/refs/heads/main.zip"
+}
