@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro Wall Height 6.1.2. Obsahuje překla
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://github.com/Lethrendis/CzechTranslationWallHeight
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationWallHeight/main/module.json
 ```
 
 ## Autor
