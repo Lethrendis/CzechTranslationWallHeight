@@ -22,7 +22,7 @@
       "path": "lang/cs.json"
     }
   ],
-  "url": "https://github.com/Lethrendis/CzechTranslationWallHeight",
+  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationWallHeight/main/module.json",
   "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationWallHeight/main/module.json",
   "download": "https://github.com/Lethrendis/CzechTranslationWallHeight/archive/refs/heads/main.zip"
 }
