@@ -1,10 +1,10 @@
 {
   "id": "czechtranslationwallheight",
   "title": "CzechTranslationWallHeight",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
-    "minimum": "12.331",
-    "verified": "12.331"
+    "minimum": "13.346",
+    "verified": "13.346"
   },
   "description": "Český překlad modulu Wall Height.",
   "authors": [

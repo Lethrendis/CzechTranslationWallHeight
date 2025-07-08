@@ -1,5 +1,5 @@
 Changelog
 
-Verze 1.0.0:
+Verze 1.1.0:
 První verze modulu.
-Kompletní překlad Wall Height 6.1.2.
+Kompletní překlad Wall Height 7.0.8.
